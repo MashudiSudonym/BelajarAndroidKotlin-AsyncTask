@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Async Task Kotlin</string>
+    <string name="status_aplikasi">Status Aplikasi</string>
+</resources>
